@@ -9,6 +9,7 @@ Hello! I'm Katie (she/her), and I'm currently a second year Master of Arts Manag
 I hope to learn to make effective charts to convey research and data analysis. My goal is to work in marketing or development for an orchestra or music organization. 
 # Portfolio
 ## Assignment #1
+[Assignment#1](/dataviz2.md)
 ## Assignment #2
 ## Assignment #3
 ## Final Project 

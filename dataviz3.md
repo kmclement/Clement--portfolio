@@ -11,9 +11,10 @@ I selected this particular data visualization, because arts managers are extreme
 
   
 
-I want to show how the arts in the United States recovered after both the 2001-2002 recession and the 2008-2009 recession. After the first recession, the arts steadily rose to its peak in 2007 right before sharply dropping before the 2008 recession and then continued to drop before it began recovering again. I experimented using both bar and line graphs, but the line graph demonstrates the movement over time better than the bar graph, especially because it shows a connection between the years. I also simplified the colors from the original graphic and highlighted the recession years using different shading in the line graph, as opposed to red bars on a green background. Neither or my interviewees were arts administrators, but they both understood the impact of the economy on arts organizations. They also helped me think to change the title to reflect the relationship between the economy and the national index score.
+I want to show how the arts in the United States recovered after both the 2001-2002 recession and the 2008-2009 recession. After the first recession, the arts steadily rose to its peak in 2007, right before sharply dropping during the 2008 recession. It then continued to drop before recovering again. I experimented using both bar and line graphs, but the line graph demonstrates the movement over time better than the bar graph, especially because it shows a connection between the years. I also simplified the colors from the original graphic and highlighted the recession years using different shading in the line graph, as opposed to red bars on a green background. Neither or my interviewees were arts administrators, but they both understood the impact of the economy on arts organizations. They both agreed that this information would help people who work in the arts- in both administration and finance. This helped me think to change the title to reflect the relationship between the economy and the National Index Score.
 
-  
+## Wireframes 
+<img width="727" alt="Screen Shot 2021-09-19 at 3 54 39 PM" src="https://user-images.githubusercontent.com/89738442/133941149-d184f5a9-3bbf-442c-90bb-22d64279f6fc.png">
 
 ## **Person #1: Jon**
 

@@ -11,6 +11,6 @@ I hope to learn to make effective charts to convey research and data analysis.
 ## Assignment #1
 [Assignment #2: Visualizing Government Debt](/dataviz2.md)
 ## Assignment #2
-[Assignment #3 and 4: Critique by Design] (/dataviz3.md)
+[Assignment #3 and 4: Critique by Design](/dataviz3.md)
 ## Assignment #3
 ## Final Project 

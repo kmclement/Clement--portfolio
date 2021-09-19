@@ -1,3 +1,10 @@
+## Original Data Source 
+
+![Screen Shot 2021-09-15 at 3 06 38 PM](https://user-images.githubusercontent.com/89738442/133940974-fdd8da1b-1892-4ba2-abaa-b4fb369551eb.png)
+
+
+
+
 ## Description 
 
 I selected this particular data visualization, because arts managers are extremely interested in how the arts recover after huge economic events. This is the most recent data for the health of arts organizations from the National Arts Index Reports, and I would find it interesting to see how the arts recover after the pandemic. Both recessions show a recovery afterwards, but one recovered quicker than the other.
@@ -35,3 +42,5 @@ I want to show how the arts in the United States recovered after both the 2001-2
 **Who do you think is the intended audience for this?** Financial analysts, arts administrators, investors, donors
 
 **Is there anything you would change or do differently?** Shade in the background of the recession years once you add in color. It’ll really make them stand out.
+
+

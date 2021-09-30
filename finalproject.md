@@ -3,9 +3,13 @@ I'd like to title my story, "The Classical Music Industry is so Rooted in Tradit
 
 ## Initial Sketches 
 I plan to begin the story using something cheerful and relatable- a bar graph of the most popular composers performed in the United States. If I can and have time in the presentation, I would also like to be able to hover over the graph and have it play a clip from the composer's most popular work. Out of every composer mentioned, all of them but one were German men who died before 1940. I plan to have a color scheme with 2 contrasting colors- one for historically underrepresented composers and one for the popular composers. Since I would like the popular composers to be in the same color family, I plan to use multiple shades in the bar graph. Mozart, the most popular composer, will have the darkest shade. 
+
+
 ![most popular composers](https://github.com/kmclement/Clement--portfolio/files/7232731/IMG_5707.heic.pdf)
 
 My "Aha!" sketch will be a grid chart with every piece performed during the 2012-2013 season, highlighting the ones performed by underrepresented composers. The historically underrepresented composers will be shown in a bright color, while the most commonly performed composers will be in gray. 
+
+
 ![Underrepresented composers data](https://github.com/kmclement/Clement--portfolio/files/7232732/IMG_5706.heic.pdf)
 
 

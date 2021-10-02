@@ -18,3 +18,7 @@ I will also be utilizing the [2010-2019 census estimates](https://www.census.gov
 
 ## Method and Medium
 I will use a scrolling page using Shorthand and use Tableau to create my charts. 
+
+## Moodboard
+![Orchestra Moodboard](https://user-images.githubusercontent.com/89738442/135734427-5c4213f4-93aa-4e31-b3d8-9625a7cb167a.png)
+

@@ -39,7 +39,7 @@ I created a series of hand written sketches as well as some initial drafts, usin
 ## Storyboard
 I created a rough draft of my Story on Shorthand.
 
-<script src="https://carnegiemellon.shorthandstories.com/orchestrarepdraft/embed.js"></script>
+[Shorthand Draft](https://preview.shorthand.com/Zi08XmsiIvTgqtSv)
 
 
 ## Moodboard
@@ -64,11 +64,11 @@ I selected three participants from various backgrounds- a software engineer, an 
 ## Individual Interview No. 1:
 I first spoke with Carl, a software engineer who works with data daily, but doesn't necessarily work with visuals. He played the clarinet before going to college, so he knows the basics of music. 
 Comments// This seems like a cool project. I never realized that orchestras play so much of the same thing all the time. 
-Suggestions// Include the source of the data into your charts. For your line graph, it drastically drops, so it looks like there were no new compositions after 2018, but that's probably when they stopped collecting the data. Can you filter the graph, so it ends before they stop collecting the data?
+Suggestions// Remember to cite the source of the data into your charts. For your line graph, it drastically drops, so it looks like there were no new compositions after 2018, but that's probably when they stopped collecting the data. Can you filter the graph, so it ends before they stop collecting the data?
 
 ## Individual Interview No. 2:
 Jon used to be a professional trombone player and has 2 conservatory degrees. He now works in the tech world and freelances on the side. 
-Comments// I really like the map that shows where orchestras are. I didn't even realize that there are so many orchestras in the US that people could play in. Maybe you should clarify that the map doesn't count volunteer or school orchestras. 
+Comments// I really like the map that shows where orchestras are. I didn't even realize that there are so many orchestras in the US that people could play in. Maybe you should clarify that the map doesn't count volunteer or school orchestras. The "most popular composers" chart makes so much sense. I like the square one better than the one with all the circles, but you should see how it goes with your overall theme of the presentation. I like the first photo with the statitics on it. You should add more of those. 
 Suggestions// You should make everything the same color palette. On your "most popular composers" chart, can you change the color for living and dead composers, or come up with some sort of system so we can see differences in types of composers? I know musicians all know the names of these composers, but most people don't. 
 
 ## Indivisual Interview No. 3:

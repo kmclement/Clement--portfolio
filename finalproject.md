@@ -29,13 +29,53 @@ My target audience is musicians, classical music lovers, people who live in comm
 
 ## Wireframes
 I created a series of hand written sketches as well as some initial drafts, using Tableau, Flourish, and Canva. 
+![IMG_5820](https://user-images.githubusercontent.com/89738442/135913966-cf8a946f-218b-42ae-a757-92d39e760000.jpg)
+![IMG_5821](https://user-images.githubusercontent.com/89738442/135913983-f6f8ac61-1a2f-4f18-85c7-3d882fe320e0.jpg)
+![IMG_5822](https://user-images.githubusercontent.com/89738442/135913991-6cc6644b-e96b-45a0-8ef0-2b2f61acbd59.jpg)
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7424649"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 
 ## Storyboard
-I created a rough draft of my Story on Storyboard.
+I created a rough draft of my Story on Shorthand.
 
 <script src="https://carnegiemellon.shorthandstories.com/orchestrarepdraft/embed.js"></script>
 
 
 ## Moodboard
 ![Orchestra Moodboard](https://user-images.githubusercontent.com/89738442/135734427-5c4213f4-93aa-4e31-b3d8-9625a7cb167a.png)
+
+## Interviews
+I selected three participants from various backgrounds- a software engineer, an arts manager, and a classical musician- questions about both my story and the visuals that accompany my story. 
+
+**Questions about my story**
+
+ - Am I communicating my story in the most efficient way possible?
+ - Do you understand the information?
+ - Do my visuals go in hand with the story?
+ - Is there a clear message?
+ 
+ **Questions about my visuals**
+ 
+ - Do my visuals make sense?
+ - Are they appealing?
+ - Is there anything you would change?
+
+## Individual Interview No. 1:
+I first spoke with Carl, a software engineer who works with data daily, but doesn't necessarily work with visuals. He played the clarinet before going to college, so he knows the basics of music. 
+Comments// This seems like a cool project. I never realized that orchestras play so much of the same thing all the time. 
+Suggestions// Include the source of the data into your charts. For your line graph, it drastically drops, so it looks like there were no new compositions after 2018, but that's probably when they stopped collecting the data. Can you filter the graph, so it ends before they stop collecting the data?
+
+## Individual Interview No. 2:
+Jon used to be a professional trombone player and has 2 conservatory degrees. He now works in the tech world and freelances on the side. 
+Comments// I really like the map that shows where orchestras are. I didn't even realize that there are so many orchestras in the US that people could play in. Maybe you should clarify that the map doesn't count volunteer or school orchestras. 
+Suggestions// You should make everything the same color palette. On your "most popular composers" chart, can you change the color for living and dead composers, or come up with some sort of system so we can see differences in types of composers? I know musicians all know the names of these composers, but most people don't. 
+
+## Indivisual Interview No. 3:
+Amanda is an arts management student at Heinz College. She has a background in percussion performance and has worked in orchestra management. 
+Comments// This could be an amazing resource for arts managers to show what little diversity the orchestra field has. I love the visual on the composers performed within the past year. I wonder if you can filter it, so we can see which characteristics of the composers that orchestras play. I'm less concerned about geographics and more concerned about the orchestra industry as a whole. 
+Suggestions// I would take out the demographics map. I like the interactivity, but it doesn't add to your story, unless you can find a way to measure only the towns that the orchestras are in, but even then, I think it's too specific for the scope of your project. 
+
+## What I changed 
+I'm currently working on a new draft of the "most popular composers" chart that can filter out different characteristics of the composers. I've been experimenting with both Tableau and Flourish to make my visuals. I think Flourish is easier to use, but Tableau has greater capabilities. I will change the end date on the line graph. I'm considering taking away the demographics chart and solely focusing my story on composer diversity, rather than how orchestras are reflecting their communities. 
 

@@ -46,7 +46,7 @@ I created a rough draft of my Story on Shorthand.
 ![Orchestra Moodboard](https://user-images.githubusercontent.com/89738442/135734427-5c4213f4-93aa-4e31-b3d8-9625a7cb167a.png)
 
 ## Interviews
-I selected three participants from various backgrounds- a software engineer, an arts manager, and a classical musician- questions about both my story and the visuals that accompany my story. 
+I selected three participants from various backgrounds- a software engineer, an arts manager, and a classical musician- questions about both my story and the visuals that accompany my story. The software engineer has experience working with very large datasets and might point out something that somebody from an arts background might miss. The arts manager regularly sees the imbalance of repertoire in the orchestra world and could help give pointers about the actual story, since she lives it every day. The musician also knows about the imbalance of orchestral repertoire, but instead plays instead of programs it. The musician I chose to interview left the classical music world after facing discrimination and now works in the tech industry. All three participants have various degrees of interest in the classical music industry and knowledge about its faults. 
 
 **Questions about my story**
 
@@ -76,6 +76,6 @@ Amanda is an arts management student at Heinz College. She has a background in p
 Comments// This could be an amazing resource for arts managers to show what little diversity the orchestra field has. I love the visual on the composers performed within the past year. I wonder if you can filter it, so we can see which characteristics of the composers that orchestras play. I'm less concerned about geographics and more concerned about the orchestra industry as a whole. 
 Suggestions// I would take out the demographics map. I like the interactivity, but it doesn't add to your story, unless you can find a way to measure only the towns that the orchestras are in, but even then, I think it's too specific for the scope of your project. 
 
-## What I changed 
-I'm currently working on a new draft of the "most popular composers" chart that can filter out different characteristics of the composers. I've been experimenting with both Tableau and Flourish to make my visuals. I think Flourish is easier to use, but Tableau has greater capabilities. I will change the end date on the line graph. I'm considering taking away the demographics chart and solely focusing my story on composer diversity, rather than how orchestras are reflecting their communities. 
+## What I Learned 
+I'm currently working on a new draft of the "most popular composers" chart that can filter out different characteristics of the composers. I've been experimenting with both Tableau and Flourish to make my visuals. I think Flourish is easier to use, but Tableau has greater capabilities. I will change the end date on the line graph. I'm considering taking away the demographics chart and solely focusing my story on composer diversity, rather than how orchestras are reflecting their communities. I believe incorporating the communities into my story will make it much more broad than it needs to be. I will be adding more appealing graphics to my final presenation and writing more about the the background of the orchestral industry. The final graphs and charts will also match the color palette that I created in the moodboard. 
 

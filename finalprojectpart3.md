@@ -1,6 +1,4 @@
-## Writeup
- - changes from part 1, who/how I identified audience, narrow focus from interviews 
- 
+## Writeup 
 After interviewing my initial three participants, I decided I wanted to target people who already have a strong background in classical music, since my composer programming graph seemed to be my most powerful visualization. A basic knowledge about orchestral repertoire, popular composers, and what it’s like to play in an orchestra can be beneficial while reading the charts, since they all contain composer’s names. I believe the information is most influential for people who regularly perform in orchestras and who don’t think about the repertoire they regularly learn and perform, but it can also tell a powerful message to anybody who has some understanding of classical music. It can also give an insight to people who aren’t in the classical music world.
 
 Instead of showing how the Orchestras represent their communities, I decided to showcase the need for decolonization in orchestras as a whole. When I tried to isolate the communities to where the orchestras were, I started seeing trends among specific orchestras instead of the industry.

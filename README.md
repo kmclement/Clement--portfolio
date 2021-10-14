@@ -13,6 +13,7 @@ I hope to learn to make effective charts to convey research and data analysis.
 ## Assignment #2
 [Assignment #3 and 4: Critique by Design](/dataviz3.md)
 ## Final Project 
-[Final Project Part 1](/finalproject.md)
-[Final Project Part 3](/finalprojectpart3.md)
+[Part 1](/finalproject.md)
+[Part 2](/finalprojectpart2.md) 
+[Part 3](/finalprojectpart3.md)
 
